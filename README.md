@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Griffin here! Thanks for checking out my Github! 
+
+I am a software developer with a passion for building quality software that helps people. I have a special interest in humanitarian projects and also GIS. 
+
+Feel free to reach out to me via LinkedIn or my email - griffinallendev@gmail.com
+
+
 <!--
 **griffinallen/griffinallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
