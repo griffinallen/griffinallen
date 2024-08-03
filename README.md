@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Griffin here! Thanks for checking out my Github! 
+Griffin here! Thanks for checking out my GitHub! 
 
 I am a software developer with a passion for building quality software that helps people. I have a special interest in humanitarian projects and also GIS. 
 
